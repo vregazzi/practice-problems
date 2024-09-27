@@ -12,6 +12,6 @@ class Solution:
             lowest = price
 
         high = max(prices[prices.index(lowest):])
-        if 
+        if
 
         return high - lowest
